@@ -14,9 +14,9 @@ let nomadlistUser = "krausefx";
 let moodHostUrl = "https://natelaclairemood.herokuapp.com/";
 let facebookId = "100000723486971";
 let googleMapsKey = "AIzaSyDeiw5iiluUP6Txt7H584no1adlsDj-jUc";
-let githubUser = "KrauseFx";
-let githubFullName = "Felix Krause";
-let myFitnessPalUser = "krausefx1";
+let githubUser = "natelaclaire";
+let githubFullName = "Nate LaClaire";
+let myFitnessPalUser = "natelaclaire";
 
 // Interfaces
 interface Conference {
