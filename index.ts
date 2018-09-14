@@ -12,7 +12,7 @@ app.use(cors());
 // Metadata
 let nomadlistUser = "krausefx";
 let moodHostUrl = "https://natelaclairemood.herokuapp.com/";
-let facebookId = "100000723486971";
+let facebookId = "506190289";
 let googleMapsKey = "AIzaSyDeiw5iiluUP6Txt7H584no1adlsDj-jUc";
 let githubUser = "natelaclaire";
 let githubFullName = "Nate LaClaire";
